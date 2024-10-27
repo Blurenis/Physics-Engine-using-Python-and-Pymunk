@@ -18,4 +18,4 @@ To run this project, you need to have Python installed along with the required l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yourusername/Physics-Engine-using-Python-and-Pymunk.git
