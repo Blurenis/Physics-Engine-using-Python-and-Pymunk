@@ -10,7 +10,7 @@ This project is a simple physics engine simulation that allows users to create a
 
 ## Screenshots
 
-![Simulation Screenshot](screenshot.png)  <!-- Replace with an actual screenshot -->
+![ScreenRecording2024-10-27082310-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/03b2610a-1a23-4b4b-8d1e-de18628123d1)  <!-- Replace with an actual screenshot -->
 
 ## Installation
 
